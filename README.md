@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @3x44
+- 👀 I’m interested in making useless websites.
+- 🌱 I’m currently learning python.
+- 💞️ I’m not looking to collaborate.
+- 📫 How to reach me ...You can't!!
